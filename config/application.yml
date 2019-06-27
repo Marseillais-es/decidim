@@ -1,8 +1,0 @@
-DATABASE_URL: postgres://decidim_app:Rosabelle2019*@localhost/decidim_prod
-
-SECRET_KEY_BASE: 9ea4bd2bc09eccb89a6bdb3fdbc430b617fd8edfeacfdc437bb5d3a09617590ff4b9fdebf8f4423e261f995254ccc197029f44f30cb2b50e39868af45823542e
-
-SMTP_USERNAME: nous@marseillais.es
-SMTP_PASSWORD: wnCi0FebUeYzAEP42Mm
-SMTP_ADDRESS: ssl0.ovh.net
-SMTP_DOMAIN: marseillais.es
